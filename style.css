@@ -1,0 +1,84 @@
+body {
+background-color: #c2c8ff;
+}
+
+h1{
+    font-family: "SF Pro Display",sans-serif;
+    color: #5b81ff;
+    font-size: 25px;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+    border-style: dashed;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    border-bottom-color: #5b81ff;
+    border-top-color: #5b81ff;
+    text-shadow: 2px 2px hsl(0, 0%, 100%);
+    }
+
+h2{
+    font-family: "SF Pro Display",sans-serif;
+    color: #5b81ff;
+    font-size: 20px ;
+    font-style:normal;
+    font-variant: normal;
+    text-align: center;
+    text-shadow: 2px 2px #ffffff;
+    }
+
+div.box{
+    text-align: center;
+}
+
+p{
+    font-family: "SF Pro Display",sans-serif;
+    color: #5b81ff;
+    font-size: 15px ;
+    font-style:normal;
+    font-variant: normal;
+    text-align: justify;
+    text-shadow: 0.5px 0.5px #ffffff;
+}
+
+h4{
+    font-family: "SF Pro Display",sans-serif;
+    color: #5b81ff;
+    font-size: 15px ;
+    font-style:normal;
+    font-variant: normal;
+    text-align: center;
+    text-shadow: 1px 1px #ffffff;
+    text-decoration: underline;   
+}
+
+h5{
+    font-family: "SF Pro Display",sans-serif;
+    color: #5b81ff;
+    font-size: 15px ;
+    font-style:italic;
+    font-variant: normal;
+    text-align: center;
+    text-shadow: 1px 1px #ffffff;
+    text-decoration: underline;   
+}
+
+div{
+    text-align: center;
+}
+
+img{
+   padding:3px;
+   border:3px solid #5b81ff;
+   background-color:#fabdd6;
+}
+
+a{ 
+    font-family: "SF Pro Display",sans-serif;
+    color: #4b6de0;
+    font-size: 15px;
+    font-style:normal;
+    font-variant: normal;
+    text-align: center;
+    text-shadow: 1px 1px #ffffff; 
+}
